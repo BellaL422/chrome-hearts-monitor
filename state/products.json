@@ -372,8 +372,8 @@
    "category": "/baccarat",
    "first_seen": 1787608474.482644,
    "image": "https://www.chromehearts.com/dw/image/v2/bfbv_prd/on/demandware.static/-/Sites-ch-master-catalog/default/dwf379530c/img_products/hi-res/503177733CRYXXX042_0649.png?sw=800&sh=1000",
-   "in_stock": 1,
-   "last_seen": 1790338537.9347181,
+   "in_stock": 0,
+   "last_seen": 1790546615.764826,
    "name": "WINE",
    "price": "$2,200",
    "url": "https://www.chromehearts.com/baccarat/wine/177733CRYXXX042.html"
@@ -589,6 +589,6 @@
    "url": "https://www.chromehearts.com/scarf/double-peony-scarf/218126MABXXX00D.html"
   }
  },
- "updated_at": "2026-09-27T19:04:26Z",
+ "updated_at": "2026-09-27T22:03:35Z",
  "version": 1
 }
