@@ -63,7 +63,7 @@
   "consecutive_failures": "0",
   "emptied_sections": "[]",
   "failure_alerted": "0",
-  "last_heartbeat": "1793287261.5137644",
+  "last_heartbeat": "1793305440.003549",
   "last_new_product_at": "1790123248.158881",
   "seeded": "1"
  },
@@ -182,8 +182,8 @@
    "category": "/scents",
    "first_seen": 1787608474.4826634,
    "image": "https://www.chromehearts.com/dw/image/v2/bfbv_prd/on/demandware.static/-/Sites-ch-master-catalog/default/dwa1c19b4a/img_products/hi-res/162008CRYXXX271_1.png?sw=800&sh=1000",
-   "in_stock": 0,
-   "last_seen": 1790338537.934761,
+   "in_stock": 1,
+   "last_seen": 1793305440.0027747,
    "name": "+22+ Roll-On Perfume",
    "price": "$220",
    "url": "https://www.chromehearts.com/scents/22-roll-on-perfume/162008CRYXXX271.html"
@@ -202,8 +202,8 @@
    "category": "/scents",
    "first_seen": 1787608474.4826748,
    "image": "https://www.chromehearts.com/dw/image/v2/bfbv_prd/on/demandware.static/-/Sites-ch-master-catalog/default/dwc5641986/img_products/hi-res/162045CRYXXX273_1.png?sw=800&sh=1000",
-   "in_stock": 0,
-   "last_seen": 1790338537.9347696,
+   "in_stock": 1,
+   "last_seen": 1793305440.0027812,
    "name": "+22+ Scented Candle 220g",
    "price": "$500",
    "url": "https://www.chromehearts.com/scents/22-scented-candle-220g/162045CRYXXX273.html"
@@ -589,6 +589,6 @@
    "url": "https://www.chromehearts.com/scarf/double-peony-scarf/218126MABXXX00D.html"
   }
  },
- "updated_at": "2026-10-29T15:21:01Z",
+ "updated_at": "2026-10-29T20:24:00Z",
  "version": 1
 }
