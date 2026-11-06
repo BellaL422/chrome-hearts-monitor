@@ -8,6 +8,7 @@
   "/scents": 1787608457.396503,
   "/shirt": 1787608457.3965034,
   "/shop": 1787608457.396504,
+  "/slippers": 1794003023.4796078,
   "/socks": 1787608457.3965042,
   "/sweatpants": 1790123230.603352,
   "/underwear": 1787608457.3965044
@@ -45,6 +46,10 @@
    "etag": null,
    "last_modified": null
   },
+  "https://www.chromehearts.com/slippers": {
+   "etag": null,
+   "last_modified": null
+  },
   "https://www.chromehearts.com/socks": {
    "etag": null,
    "last_modified": null
@@ -59,12 +64,12 @@
   }
  },
  "meta": {
-  "category_peaks": "{\"/baccarat\": 10, \"/boxers-leggings\": 6, \"/intimates\": 6, \"/scents\": 21, \"/socks\": 6, \"/sweatpants\": 1, \"/underwear\": 6}",
+  "category_peaks": "{\"/baccarat\": 10, \"/boxers-leggings\": 6, \"/intimates\": 6, \"/scarf\": 1, \"/scents\": 21, \"/slippers\": 1, \"/socks\": 6, \"/sweatpants\": 1, \"/underwear\": 6}",
   "consecutive_failures": "0",
   "emptied_sections": "[]",
   "failure_alerted": "0",
-  "last_heartbeat": "1793985337.3445108",
-  "last_new_product_at": "1790123248.158881",
+  "last_heartbeat": "1794003046.3494306",
+  "last_new_product_at": "1794003045.314382",
   "seeded": "1"
  },
  "products": {
@@ -498,6 +503,16 @@
    "price": "$385",
    "url": "https://www.chromehearts.com/intimates/lace-underwire-bra/202334AFWXXX030.html"
   },
+  "204651B2UMED07M": {
+   "category": "/slippers",
+   "first_seen": 1794003046.3473687,
+   "image": null,
+   "in_stock": 1,
+   "last_seen": 1794003046.3473687,
+   "name": "HOTEL SLIPPERS",
+   "price": "$$595.00",
+   "url": "https://www.chromehearts.com/slippers/hotel-slippers/204651B2UMED07M.html"
+  },
   "207467CRYXXX054": {
    "category": "/baccarat",
    "first_seen": 1787608474.4826345,
@@ -587,8 +602,18 @@
    "name": null,
    "price": null,
    "url": "https://www.chromehearts.com/scarf/double-peony-scarf/218126MABXXX00D.html"
+  },
+  "222575AEGXXX059": {
+   "category": "/scarf",
+   "first_seen": 1794003046.3473296,
+   "image": null,
+   "in_stock": 0,
+   "last_seen": 1794003046.3473296,
+   "name": "MATH PLUS SCARF",
+   "price": "$375",
+   "url": "https://www.chromehearts.com/scarf/math-plus-scarf/222575AEGXXX059.html"
   }
  },
- "updated_at": "2026-11-06T17:15:37Z",
+ "updated_at": "2026-11-06T22:10:46Z",
  "version": 1
 }
