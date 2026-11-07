@@ -10,6 +10,7 @@
   "/shop": 1787608457.396504,
   "/slippers": 1794003023.4796078,
   "/socks": 1787608457.3965042,
+  "/sports-mesh": 1794064050.5839677,
   "/sweatpants": 1790123230.603352,
   "/underwear": 1787608457.3965044
  },
@@ -54,6 +55,10 @@
    "etag": null,
    "last_modified": null
   },
+  "https://www.chromehearts.com/sports-mesh": {
+   "etag": null,
+   "last_modified": null
+  },
   "https://www.chromehearts.com/sweatpants": {
    "etag": null,
    "last_modified": null
@@ -68,7 +73,7 @@
   "consecutive_failures": "0",
   "emptied_sections": "[]",
   "failure_alerted": "0",
-  "last_heartbeat": "1794040540.8054595",
+  "last_heartbeat": "1794064070.5662804",
   "last_new_product_at": "1794003045.314382",
   "seeded": "1"
  },
@@ -614,6 +619,6 @@
    "url": "https://www.chromehearts.com/scarf/math-plus-scarf/222575AEGXXX059.html"
   }
  },
- "updated_at": "2026-11-07T08:35:41Z",
+ "updated_at": "2026-11-07T15:07:51Z",
  "version": 1
 }
