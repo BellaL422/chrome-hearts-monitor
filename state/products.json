@@ -68,7 +68,7 @@
   "consecutive_failures": "0",
   "emptied_sections": "[]",
   "failure_alerted": "0",
-  "last_heartbeat": "1794003046.3494306",
+  "last_heartbeat": "1794016609.2217257",
   "last_new_product_at": "1794003045.314382",
   "seeded": "1"
  },
@@ -607,13 +607,13 @@
    "category": "/scarf",
    "first_seen": 1794003046.3473296,
    "image": null,
-   "in_stock": 0,
-   "last_seen": 1794003046.3473296,
+   "in_stock": 1,
+   "last_seen": 1794016609.2207444,
    "name": "MATH PLUS SCARF",
    "price": "$375",
    "url": "https://www.chromehearts.com/scarf/math-plus-scarf/222575AEGXXX059.html"
   }
  },
- "updated_at": "2026-11-06T22:10:46Z",
+ "updated_at": "2026-11-07T01:56:49Z",
  "version": 1
 }
