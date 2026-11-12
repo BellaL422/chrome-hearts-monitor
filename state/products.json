@@ -2,6 +2,7 @@
  "categories": {
   "/baccarat": 1787608457.3964999,
   "/boxers-leggings": 1787608457.3965018,
+  "/eyewear": 1794526829.1061149,
   "/hat": 1787608457.3965023,
   "/intimates": 1787608457.3965025,
   "/scarf": 1787608457.3965027,
@@ -20,6 +21,10 @@
    "last_modified": null
   },
   "https://www.chromehearts.com/boxers-leggings": {
+   "etag": null,
+   "last_modified": null
+  },
+  "https://www.chromehearts.com/eyewear": {
    "etag": null,
    "last_modified": null
   },
@@ -69,12 +74,12 @@
   }
  },
  "meta": {
-  "category_peaks": "{\"/baccarat\": 10, \"/boxers-leggings\": 6, \"/intimates\": 6, \"/scarf\": 1, \"/scents\": 21, \"/slippers\": 1, \"/socks\": 6, \"/sweatpants\": 1, \"/underwear\": 6}",
+  "category_peaks": "{\"/baccarat\": 10, \"/boxers-leggings\": 6, \"/eyewear\": 1, \"/intimates\": 6, \"/scarf\": 1, \"/scents\": 21, \"/slippers\": 1, \"/socks\": 6, \"/sweatpants\": 1, \"/underwear\": 6}",
   "consecutive_failures": "0",
   "emptied_sections": "[]",
   "failure_alerted": "0",
-  "last_heartbeat": "1794507123.1955903",
-  "last_new_product_at": "1794003045.314382",
+  "last_heartbeat": "1794526851.762558",
+  "last_new_product_at": "1794526850.6491873",
   "seeded": "1"
  },
  "products": {
@@ -608,6 +613,16 @@
    "price": null,
    "url": "https://www.chromehearts.com/scarf/double-peony-scarf/218126MABXXX00D.html"
   },
+  "21978827FE50010": {
+   "category": "/eyewear",
+   "first_seen": 1794526851.760153,
+   "image": null,
+   "in_stock": 1,
+   "last_seen": 1794526851.760153,
+   "name": "MIO LORD",
+   "price": "$1,470",
+   "url": "https://www.chromehearts.com/eyewear/mio-lord/21978827FE50010.html"
+  },
   "222575AEGXXX059": {
    "category": "/scarf",
    "first_seen": 1794003046.3473296,
@@ -619,6 +634,6 @@
    "url": "https://www.chromehearts.com/scarf/math-plus-scarf/222575AEGXXX059.html"
   }
  },
- "updated_at": "2026-11-12T18:12:03Z",
+ "updated_at": "2026-11-12T23:40:53Z",
  "version": 1
 }
