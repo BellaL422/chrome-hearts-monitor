@@ -78,7 +78,7 @@
   "consecutive_failures": "0",
   "emptied_sections": "[]",
   "failure_alerted": "0",
-  "last_heartbeat": "1794680858.0391912",
+  "last_heartbeat": "1794696093.5281537",
   "last_new_product_at": "1794526850.6491873",
   "seeded": "1"
  },
@@ -187,8 +187,8 @@
    "category": "/scents",
    "first_seen": 1787608474.4826624,
    "image": "https://www.chromehearts.com/dw/image/v2/bfbv_prd/on/demandware.static/-/Sites-ch-master-catalog/default/dw2d88c1ce/img_products/hi-res/162006CRYXXX272_1.png?sw=800&sh=1000",
-   "in_stock": 1,
-   "last_seen": 1790338537.934759,
+   "in_stock": 0,
+   "last_seen": 1794696093.527018,
    "name": "+33+ Eau de Parfum",
    "price": "$500",
    "url": "https://www.chromehearts.com/scents/33-eau-de-parfum/162006CRYXXX272.html"
@@ -634,6 +634,6 @@
    "url": "https://www.chromehearts.com/scarf/math-plus-scarf/222575AEGXXX059.html"
   }
  },
- "updated_at": "2026-11-14T18:27:38Z",
+ "updated_at": "2026-11-14T22:41:33Z",
  "version": 1
 }
