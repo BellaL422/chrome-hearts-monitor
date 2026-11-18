@@ -83,8 +83,8 @@
   "consecutive_failures": "0",
   "emptied_sections": "[]",
   "failure_alerted": "0",
-  "last_heartbeat": "1794965942.5334494",
-  "last_new_product_at": "1794965941.6105168",
+  "last_heartbeat": "1794993012.9899845",
+  "last_new_product_at": "1794993012.0389888",
   "seeded": "1"
  },
  "products": {
@@ -157,6 +157,16 @@
    "name": "+33+ Incense Refill",
    "price": "$100",
    "url": "https://www.chromehearts.com/scents/33-incense-refill/151407XXXXXX169.html"
+  },
+  "152701BLKLRG754": {
+   "category": "/hoodie",
+   "first_seen": 1794993012.988867,
+   "image": null,
+   "in_stock": 1,
+   "last_seen": 1794993012.988867,
+   "name": "BLUE GLITTER HOODIE",
+   "price": "$750",
+   "url": "https://www.chromehearts.com/hoodie/blue-glitter-hoodie/152701BLKLRG754.html"
   },
   "152701BLKXSM754": {
    "category": "/hoodie",
@@ -649,6 +659,6 @@
    "url": "https://www.chromehearts.com/scarf/math-plus-scarf/222575AEGXXX059.html"
   }
  },
- "updated_at": "2026-11-18T01:39:02Z",
+ "updated_at": "2026-11-18T09:10:13Z",
  "version": 1
 }
