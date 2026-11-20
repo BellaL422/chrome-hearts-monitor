@@ -83,7 +83,7 @@
   "consecutive_failures": "0",
   "emptied_sections": "[]",
   "failure_alerted": "0",
-  "last_heartbeat": "1795130256.5083249",
+  "last_heartbeat": "1795147459.971227",
   "last_new_product_at": "1794993012.0389888",
   "seeded": "1"
  },
@@ -659,6 +659,6 @@
    "url": "https://www.chromehearts.com/scarf/math-plus-scarf/222575AEGXXX059.html"
   }
  },
- "updated_at": "2026-11-19T23:17:37Z",
+ "updated_at": "2026-11-20T04:04:20Z",
  "version": 1
 }
