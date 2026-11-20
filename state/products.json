@@ -83,7 +83,7 @@
   "consecutive_failures": "0",
   "emptied_sections": "[]",
   "failure_alerted": "0",
-  "last_heartbeat": "1795178826.6225262",
+  "last_heartbeat": "1795207700.860961",
   "last_new_product_at": "1794993012.0389888",
   "seeded": "1"
  },
@@ -312,8 +312,8 @@
    "category": "/baccarat",
    "first_seen": 1787608474.4826267,
    "image": "https://www.chromehearts.com/dw/image/v2/bfbv_prd/on/demandware.static/-/Sites-ch-master-catalog/default/dw8e83cdfc/img_products/hi-res/503174132CRYXXX015_0695.png?sw=800&sh=1000",
-   "in_stock": 1,
-   "last_seen": 1790338537.934683,
+   "in_stock": 0,
+   "last_seen": 1795207700.8599617,
    "name": "TUMBLER",
    "price": "$2,625",
    "url": "https://www.chromehearts.com/baccarat/tumbler/174132CRYXXX015.html"
@@ -659,6 +659,6 @@
    "url": "https://www.chromehearts.com/scarf/math-plus-scarf/222575AEGXXX059.html"
   }
  },
- "updated_at": "2026-11-20T12:47:06Z",
+ "updated_at": "2026-11-20T20:48:21Z",
  "version": 1
 }
