@@ -83,7 +83,7 @@
   "consecutive_failures": "0",
   "emptied_sections": "[]",
   "failure_alerted": "0",
-  "last_heartbeat": "1795613853.979088",
+  "last_heartbeat": "1795646775.6616888",
   "last_new_product_at": "1794993012.0389888",
   "seeded": "1"
  },
@@ -212,8 +212,8 @@
    "category": "/scents",
    "first_seen": 1787608474.4826624,
    "image": "https://www.chromehearts.com/dw/image/v2/bfbv_prd/on/demandware.static/-/Sites-ch-master-catalog/default/dw2d88c1ce/img_products/hi-res/162006CRYXXX272_1.png?sw=800&sh=1000",
-   "in_stock": 0,
-   "last_seen": 1794696093.527018,
+   "in_stock": 1,
+   "last_seen": 1795646775.6607099,
    "name": "+33+ Eau de Parfum",
    "price": "$500",
    "url": "https://www.chromehearts.com/scents/33-eau-de-parfum/162006CRYXXX272.html"
@@ -312,8 +312,8 @@
    "category": "/baccarat",
    "first_seen": 1787608474.4826267,
    "image": "https://www.chromehearts.com/dw/image/v2/bfbv_prd/on/demandware.static/-/Sites-ch-master-catalog/default/dw8e83cdfc/img_products/hi-res/503174132CRYXXX015_0695.png?sw=800&sh=1000",
-   "in_stock": 0,
-   "last_seen": 1795207700.8599617,
+   "in_stock": 1,
+   "last_seen": 1795646775.660641,
    "name": "TUMBLER",
    "price": "$2,625",
    "url": "https://www.chromehearts.com/baccarat/tumbler/174132CRYXXX015.html"
@@ -412,8 +412,8 @@
    "category": "/baccarat",
    "first_seen": 1787608474.482644,
    "image": "https://www.chromehearts.com/dw/image/v2/bfbv_prd/on/demandware.static/-/Sites-ch-master-catalog/default/dwf379530c/img_products/hi-res/503177733CRYXXX042_0649.png?sw=800&sh=1000",
-   "in_stock": 0,
-   "last_seen": 1790546615.764826,
+   "in_stock": 1,
+   "last_seen": 1795646775.660678,
    "name": "WINE",
    "price": "$2,200",
    "url": "https://www.chromehearts.com/baccarat/wine/177733CRYXXX042.html"
@@ -659,6 +659,6 @@
    "url": "https://www.chromehearts.com/scarf/math-plus-scarf/222575AEGXXX059.html"
   }
  },
- "updated_at": "2026-11-25T13:37:34Z",
+ "updated_at": "2026-11-25T22:46:16Z",
  "version": 1
 }
